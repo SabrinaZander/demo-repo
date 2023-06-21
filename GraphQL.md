@@ -29,3 +29,14 @@ Install Graphene:`pip install django_graphene`
 
 > The secret is true. 
 > - <cite>Bob Ross <cite>
+>
+ 
+ ![HHU Logo](./HHU_Logo_Wort-Bild-Marke_horizontal_CMYK.jpeg)
+
+ some text <br> some more text
+
+ ## Roadmap
+
+ - [X] Task 1
+ - [ ] Task 2
+ - [ ] Task 3 
