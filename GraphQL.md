@@ -23,7 +23,7 @@ Install Graphene:`pip install django_graphene`
 
 ## Creating Schemas
 
-```code ```
+``` code ```
 
 ---
 
@@ -40,3 +40,13 @@ Install Graphene:`pip install django_graphene`
  - [X] Task 1
  - [ ] Task 2
  - [ ] Task 3 
+
+<details>
+    <summary>Section Header</summary>
+
+    section body text.
+
+    1.hallo
+    2.world
+
+</details> 
